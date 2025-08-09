@@ -1,0 +1,16 @@
+# Visual Studio
+.vs
+*.csproj.user
+
+# Build artifacts
+bin/
+obj/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# OS files
+Thumbs.db
+Desktop.ini
